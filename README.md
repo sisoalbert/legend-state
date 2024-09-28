@@ -60,3 +60,7 @@ Join our community of developers creating universal apps.
 
 - [Expo on GitHub](https://github.com/expo/expo): View our open source platform and contribute.
 - [Discord community](https://chat.expo.dev): Chat with Expo users and ask questions.
+
+## Additional Resources
+
+For more information on state management, check out the [Legend-State documentation](https://www.legendapp.com/open-source/state/v3/intro/introduction/).
