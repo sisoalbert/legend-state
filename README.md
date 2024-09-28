@@ -35,6 +35,18 @@ npm run reset-project
 
 This command will move the starter code to the **app-example** directory and create a blank **app** directory where you can start developing.
 
+## Todo App Description
+
+This Todo app allows users to create, manage, and track their tasks efficiently. Users can add new tasks, mark them as completed, and delete them as needed. The app provides a simple and intuitive interface for managing daily activities.
+
+### Legend State
+
+- **Pending**: Tasks that are yet to be completed.
+- **Completed**: Tasks that have been finished.
+- **Overdue**: Tasks that were not completed by their due date.
+
+This legend helps users quickly identify the status of their tasks at a glance.
+
 ## Learn more
 
 To learn more about developing your project with Expo, look at the following resources:
